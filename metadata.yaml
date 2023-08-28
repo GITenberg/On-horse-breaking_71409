@@ -1,11 +1,16 @@
 _repo: On-horse-breaking_71409
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71409-h/images/cover.jpg
 creator:
   author:
     agent_name: Moreton, Robert
     gutenberg_agent_id: '56219'
     url: http://www.gutenberg.org/2009/agents/56219
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71409#On-horse-breaking
 gutenberg_issued: '2023-08-15'
 identifiers:
   gutenberg: '71409'
